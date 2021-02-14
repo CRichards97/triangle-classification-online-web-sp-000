@@ -6,5 +6,5 @@ class Triangle
     @c = c
   end
 
-  
+
 end
